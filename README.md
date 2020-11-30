@@ -1,3 +1,7 @@
+<p align="center">
+    <img style="border-radius: 100px" width="128" height="128" src="https://github.com/hypewsthedev/hypewsthedev/blob/main/new%20pfp.png?size=2048">
+</p>
+
 <h1 align="center">hypews</h1>
 
 <p align="center">
