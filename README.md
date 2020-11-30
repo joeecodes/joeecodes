@@ -37,3 +37,6 @@
     <img alt="Lyfe" width="22px" src="https://media.discordapp.net/attachments/781264177834491975/782875880279244821/lyfeblack.png" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypewsthedev&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
