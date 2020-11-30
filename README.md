@@ -20,8 +20,7 @@
 </p>
 
 <p align="center">
-    My main project at the moment is maintaing the Discord bot Lyfe.
-    My main language is Python but I am steadily learning other languages like Java and JavaScript. I have been coding Python since 2018 and only recently had a large enough project to start writing in it again. Another project that I'm working on is a Java plugin for Minecraft with the help of <a href="https://github.com/NegativeKB">NegativeKB</a>.
+    My main project at the moment is maintaing the Discord bot Lyfe. Python is my main language but I am steadily learning other languages like Java and JavaScript. I have been coding Python since 2018 and only recently had a large enough project to start writing in it again. Another project that I'm working on is a Java plugin for Minecraft with the help of <a href="https://github.com/NegativeKB">NegativeKB</a>.
 </p>
 
 <br/>
