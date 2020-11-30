@@ -22,3 +22,18 @@
 <p align="center">
     My main project at the moment is maintaing the Discord bot Lyfe
 </p>
+
+<br/>
+
+<p align="center">
+    Projects I am maintaining:
+</p>
+
+<p align="center">
+    Lyfe
+</p>
+<p align="center">
+  <a href="https://www.github.com/uhmarco/lyfe">
+    <img alt="Lyfe" width="22px" src="https://media.discordapp.net/attachments/781264177834491975/782875880279244821/lyfeblack.png" />
+  </a>
+</p>
