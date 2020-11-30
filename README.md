@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-    My main project at the moment is maintaing ![Lyfe](https://www.github.com/uhmarco/lyfe)
+    My main project at the moment is maintaing the Discord bot Lyfe
 </p>
