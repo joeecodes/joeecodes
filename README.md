@@ -38,9 +38,7 @@
 </p>
 
 <br/>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hypewsthedev&show_icons=true&hide_border=true" />
-
-</details>
+<p>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hypewsthedev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img align="left" alt="GitHub Stats 2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypewsthedev&count_private=true&include_all_commits=true&theme=tokyonight" />
+</p>
