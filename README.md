@@ -2,7 +2,7 @@
     <img style="border-radius: 100px" width="128" height="128" src="https://github.com/hypewsthedev/hypewsthedev/blob/main/14.png?raw=true?size=4000">
 </p>
 
-<h1 align="center">hypews</h1>
+<h1 align="center">Joe Hosten</h1>
 
 <p align="center">
   <a href="https://twitter.com/hyqrogen">
