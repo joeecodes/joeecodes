@@ -28,9 +28,7 @@
 <p align="center">
     Projects I am maintaining:
 </p>
-<p align="center">
-    Lyfe
-</p>
+
 <p align="center">
     <a href="https://www.github.com/uhmarco/lyfe">Lyfe</a> and <a href="https://github.com/hypewsthedev/AquatiCraftDiscordBot">AquatiCraft</a>
 </p>
