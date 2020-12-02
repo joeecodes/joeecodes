@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://github.com/hypewsthedev/hypewsthedev/blob/main/16.png?raw=true?size=4000">
+    <img style="border-radius: 100px" width="128" height="128" src="https://github.com/hypewsthedev/hypewsthedev/blob/main/3.png?raw=true?size=4000">
 </p>
 
 <h1 align="center">Joe Hosten</h1>
