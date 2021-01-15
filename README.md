@@ -25,13 +25,7 @@
 
 <br/>
 
-<p align="center">
-    Projects I am maintaining:
-</p>
-
-<p align="center">
-    <a href="https://github.com/hypewsthedev/AquatiCraftcore">AquatiCraft</a>
-</p>
+<hr>
 
 <br/>
 <p align="center">
