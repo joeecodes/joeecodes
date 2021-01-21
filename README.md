@@ -13,6 +13,9 @@
     <img alt="hypews' github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
+  <a href="https://codestats.net/users/hypews">
+    <img alt="hypews' codestats" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />
+  </a>
 <br/>
 
 <p align="center">
