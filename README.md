@@ -16,6 +16,10 @@
   <a href="https://codestats.net/users/hypews">
     <img alt="hypews' codestats" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />
   </a>
+<br/>  
+<a href="https://twitch.tv/hypews">
+    <img alt="hypews' twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />
+  </a>
 <br/>
 
 <p align="center">
