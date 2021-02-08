@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-    My main project at the moment is maintaing the AquatiCraft Minecraft Server. Java and Python are my main languages but I am steadily learning other languages like JavaScript and HTML. I've been coding in Java for around a year and I can say I have learned a lot. My main project with Java is maintaining and writing the core plugin for a Minecraft server called <a href="https://www.aquaticraft.xyz">AquatiCraft</a>. The core bot essentially houses all internal code for the other plugins on the server and they all work in tandem to function as one. As for Python, I was a developer for a Discord Bot written in discord.py. It was a game / inventory bot that used a database to store many items each individual player had, storing them in a global list and a per-guild list - the project has recently ended.
+    I don't really have a main project at the moment - I have just been doing bits of coding in my spare time. Java and Python are my main languages but I am steadily learning other languages like JavaScript and HTML. I've been coding in Java for around a year and I can say I have learned a lot. I was a developer for a Discord Bot written in discord.py. It was a game / inventory bot that used a database to store many items each individual player had, storing them in a global list and a per-guild list - the project has recently ended.
 </p>
 
 <br/>
