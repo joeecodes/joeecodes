@@ -35,5 +35,7 @@
 <hr>
 
 <br/>
+<center>
   <img align="left" alt="GitHub Stats 2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypewsthedev&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
+</center>
