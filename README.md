@@ -2,6 +2,7 @@
 
 * Languages: Java, Python, HTML, CSS, and PHP
 * Fun fact about me: I have a serious addiction to anime
+* Take a look at my development group: https://github.com/delta-development/
 * My other work: https://mywork.hypews.com/
 
 ***
