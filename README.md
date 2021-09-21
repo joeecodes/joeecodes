@@ -4,7 +4,7 @@
 * Fun fact about me: I have a serious addiction to anime
 * Take a look at my development group: https://github.com/delta-development/
 * My other work: https://mywork.hypews.com/
-* Actively working @ [Skycade](https://discord.gg/skycade)
+* Actively working @ [Skycade](https://skycade.net/discord)
 
 ***
 ## Stats
