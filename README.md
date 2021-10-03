@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="header" src="https://pic.funnygifsbox.com/uploads/2019/05/funnygifsbox.com-2019-05-22-12-24-43-5.gif">
+<img alt="header" src="https://i.pinimg.com/originals/a8/8b/e9/a88be9f7deb90c3e1779b9fd414ea8db.gif">
   <br>
   <h1>hi, i'm <a href="https://joe.hypews.com">joe</a></h1>
     <h3>Welcome to my GitHub profile.. there's not much here though :c</h1>
