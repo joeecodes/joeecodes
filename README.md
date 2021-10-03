@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="header" src="https://c.tenor.com/pfdsiZzI1psAAAAC/one-punch-man-one.gif">
+<img alt="header" src="https://pic.funnygifsbox.com/uploads/2019/05/funnygifsbox.com-2019-05-22-12-24-43-5.gif">
   <br>
   <h1>hi, i'm <a href="https://joe.hypews.com">joe</a></h1>
     <h3>Welcome to my GitHub profile.. there's not much here though :c</h1>
