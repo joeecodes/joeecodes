@@ -1,3 +1,5 @@
+![Age](https://img.shields.io/badge/Age-17-success?style=for-the-badge) ![Anime](https://img.shields.io/badge/Crippling%20Anime%20Addiction%3F-Yes-critical?style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/hypewsthedev?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/joehosten_?style=for-the-badge)
+***
 # 👋 Hello, my name is Joe!
 
 I'm a 17 year old developer with experience in 
@@ -15,9 +17,6 @@ I am studying a Level 3 Diploma in Computer Science at college.
 ***
 ## Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=hypewsthedev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-***
-![Age](https://img.shields.io/badge/Age-17-success?style=for-the-badge) ![Anime](https://img.shields.io/badge/Crippling%20Anime%20Addiction%3F-Yes-critical?style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/hypewsthedev?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/joehosten_?style=for-the-badge)
 
 ***
 # Contact me
