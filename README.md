@@ -2,10 +2,7 @@
 <img alt="header" src="https://c.tenor.com/pfdsiZzI1psAAAAC/one-punch-man-one.gif">
   <br>
   <h1>hi, i'm <a href="https://joe.hypews.com">joe</a></h1>
-    <h1>Welcome to my GitHub profile.. there's not much here though :c</h1>
-    <hr>
-      <img src="https://github-readme-stats.vercel.app/api?username=hypewsthedev&count_private=true">
-      <hr>
+    <h3>Welcome to my GitHub profile.. there's not much here though :c</h1>
   <h3>A bit about me:</h3>
   <p>I am a 17 year old developer actively working @ <a href="https://skycade.net">Skycade</a>.<br>
     I have experience in Java, Python, Git, PHP & HTML, SQL and more!<br>
