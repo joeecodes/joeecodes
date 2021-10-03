@@ -1,25 +1,23 @@
-![Age](https://img.shields.io/badge/Age-17-success?style=for-the-badge) ![Anime](https://img.shields.io/badge/Crippling%20Anime%20Addiction%3F-Yes-critical?style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/hypewsthedev?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/joehosten_?style=for-the-badge)
-***
-# 👋 Hello, my name is Joe!
-
-I'm a 17 year old developer with experience in 
-Java, PHP & HTML, Python, SQL and more. 
-
-Currently working @ [Skycade](https://skycade.net/discord)
-as a JrDeveloper working on databases and internal code systems.
-
-I am studying a Level 3 Diploma in Computer Science at college.
-
-* Fun fact about me: I have a serious addiction to anime
-* Take a look at my development group: https://github.com/delta-development/
-* My other work: https://mywork.hypews.com/
-
-***
-## Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hypewsthedev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-***
-# Contact me
-**Twitter**: [@joehosten_](https://twitter.com/joehosten_)<br>
-**Discord**: hypews#0001<br>
-**Email**: me@hypews.com *or* dev@deltapvp.club<br>
+<div align="center">
+<img alt="header" src="https://c.tenor.com/pfdsiZzI1psAAAAC/one-punch-man-one.gif">
+  <br>
+  <h1>hi, i'm <a href="https://joe.hypews.com">joe</a></h1>
+    <h1>Welcome to my GitHub profile.. there's not much here though :c</h1>
+    <hr>
+      <img src="https://github-readme-stats.vercel.app/api?username=hypewsthedev&count_private=true">
+      <hr>
+  <h3>A bit about me:</h3>
+  <p>I am a 17 year old developer actively working @ <a href="https://skycade.net">Skycade</a>.<br>
+    I have experience in Java, Python, Git, PHP & HTML, SQL and more!<br>
+    Currently studying a Level 3 Diploma in Computer Science at college.<br>
+    I have an extensive and uncurable addiction to Anime..<br>
+    I support and contribute to a dev group- Please check it out <a href="https://github.deltapvp.club">here</a><br>
+    I have more work showcased <a href="https://mywork.hypews.com">here</a><br>
+    i like cats
+  </p>
+  <p><b><a href="">Website</a> | <a href="https://discord.gg/K5apS39m9m">Discord</a> | <a href="https://twitter.com/joehosten_">Twitter</a> | <a href="mailto:me@hypews.com">Email</a></b>
+  </p>
+  <hr>
+  <p>ok bye</p><img src="https://thumbs.gfycat.com/JaggedOpenAfricanhornbill-size_restricted.gif">
+  </div>
+<ln>
