@@ -12,7 +12,7 @@
     I have more work showcased <a href="https://mywork.hypews.com">here</a><br>
     i like cats
   </p>
-  <p><b><a href="">Website</a> | <a href="https://discord.gg/K5apS39m9m">Discord</a> | <a href="https://twitter.com/joehosten_">Twitter</a> | <a href="mailto:me@hypews.com">Email</a></b>
+  <p><b><a href="https://joe.hypews.com">Website</a> | <a href="https://discord.gg/K5apS39m9m">Discord</a> | <a href="https://twitter.com/joehosten_">Twitter</a> | <a href="mailto:me@hypews.com">Email</a></b>
   </p>
   <hr>
   <p>ok bye</p><img src="https://thumbs.gfycat.com/JaggedOpenAfricanhornbill-size_restricted.gif">
