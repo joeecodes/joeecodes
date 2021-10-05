@@ -4,7 +4,7 @@
   <h1>hi, i'm <a href="https://joe.hypews.com">joe</a></h1>
     <h3>Welcome to my GitHub profile.. there's not much here though :c</h1>
   <h3>A bit about me:</h3>
-  <p>I am a 17 year old developer actively working @ <a href="https://skycade.net">Skycade</a>.<br>
+  <p>I am a 17 year old backend developer actively working @ <a href="https://skycade.net">Skycade</a>.<br>
     I have experience in Java, Python, Git, PHP & HTML, SQL and more!<br>
     Currently studying a Level 3 Diploma in Computer Science at college.<br>
     I have an extensive and uncurable addiction to Anime..<br>
