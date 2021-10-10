@@ -15,6 +15,10 @@
   <p><b><a href="https://joe.hypews.com">Website</a> | <a href="https://discord.gg/K5apS39m9m">Discord</a> | <a href="https://twitter.com/joehosten_">Twitter</a> | <a href="mailto:me@hypews.com">Email</a></b>
   </p>
   <hr>
+ 
+  <center><img src="https://github-profile-trophy.vercel.app/?username=hypewsthedev&theme=darkhub"></center>
+
+  <hr>
   <p>ok bye</p><img src="https://thumbs.gfycat.com/JaggedOpenAfricanhornbill-size_restricted.gif">
   </div>
 <ln>
