@@ -16,8 +16,9 @@
   </p>
   <hr>
  
-  <center><img src="https://github-profile-trophy.vercel.app/?username=hypewsthedev&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true&row=2"></center>
+  <img src="https://github-profile-trophy.vercel.app/?username=hypewsthedev&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true&row=2">
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=hypewsthedev&theme=dracula"> -->
+  <br>
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=yyjto5vba4dqwzg3e38042e1s&cover_image=true&theme=default">
 
   <hr>
