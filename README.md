@@ -16,7 +16,7 @@
   </p>
   <hr>
  
-  <center><img src="https://github-profile-trophy.vercel.app/?username=hypewsthedev&theme=darkhub"></center>
+  <center><img src="https://github-profile-trophy.vercel.app/?username=hypewsthedev&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true&row=2"></center>
 
   <hr>
   <p>ok bye</p><img src="https://thumbs.gfycat.com/JaggedOpenAfricanhornbill-size_restricted.gif">
