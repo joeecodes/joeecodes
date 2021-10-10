@@ -17,6 +17,7 @@
   <hr>
  
   <center><img src="https://github-profile-trophy.vercel.app/?username=hypewsthedev&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true&row=2"></center>
+  <img src="https://activity-graph.herokuapp.com/graph?username=hypewsthedev&theme=dracula">
 
   <hr>
   <p>ok bye</p><img src="https://thumbs.gfycat.com/JaggedOpenAfricanhornbill-size_restricted.gif">
