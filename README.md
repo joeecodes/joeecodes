@@ -20,7 +20,7 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=hypewsthedev&theme=dracula"> -->
   <br>
   <a href="https://open.spotify.com/user/yyjto5vba4dqwzg3e38042e1s?si=2a891eb256824331">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=yyjto5vba4dqwzg3e38042e1s&cover_image=true&theme=default"></a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yyjto5vba4dqwzg3e38042e1s&cover_image=true&theme=novatorem&bar_color_cover=true"></a>
 
   <hr>
   <p>ok bye</p><img src="https://thumbs.gfycat.com/JaggedOpenAfricanhornbill-size_restricted.gif">
