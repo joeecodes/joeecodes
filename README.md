@@ -15,7 +15,7 @@
 - ❓ Need to contact me? [Email me](mailto:me@hypews.com)  
   
 
-- ⚡ Fun fact: i have an anime addiction..  
+- ⚡ Fun fact: avid anime fan
   
 
 <br/>  
