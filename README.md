@@ -12,5 +12,4 @@
 ⚡ Fun fact: avid anime fan<br>
 
 ![](https://metrics.lecoq.io/hypewsthedev?template=classic&tweets=1&lines=1&code=1&isocalendar=1&languages=1&people=1&activity=1&isocalendar.duration=half-year&languages.ignored=python%2C%20css&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&code.lines=12&code.load=100&code.visibility=all&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&tweets.attachments=true&tweets.limit=2&tweets.user=joehosten_&config.timezone=Europe%2FLondon)
-
 </div>
