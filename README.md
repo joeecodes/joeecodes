@@ -3,7 +3,7 @@
 
   
 
-### <div align="center">Helo, im joe.</div>  
+### <div align="center">Helo, im joee</div>  
   
 
 🔭 Working @ [Skycade](https://skycade.net)<br>
