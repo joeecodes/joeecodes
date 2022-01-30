@@ -7,7 +7,6 @@
   
 
 🔭 Working @ [Skycade](https://skycade.net)<br>
-🔍 Continously learning<br>
 ❓ Need to contact me? [Email me](mailto:me@hypews.com)  <br>
 ⚡ Fun fact: avid anime fan<br>
 
