@@ -7,7 +7,7 @@
   
 
 🔭 Working @ [Skycade](https://skycade.net)<br>
-❓ Need to contact me? [Email me](mailto:me@hypews.com)  <br>
+🧾 Open to commissions! [Email me](mailto:me@joehosten.me)  <br>
 ⚡ Fun fact: avid anime fan<br>
 📫 me@joehosten.me<br><br>
 ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joee&theme=dracula)<br>
