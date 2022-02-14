@@ -4,7 +4,7 @@
   ### <div align="center">Helo, im joee</div>  
   
 
-🔭 Working @ [Skycade](https://skycade.net)<br>
+🔭 Working @ on multiple projects<br>
 🧾 Open to commissions! [Email me](mailto:me@joehosten.me)  <br>
 ⚡ Fun fact: avid anime fan<br>
 📫 me@joehosten.me<br><br>
