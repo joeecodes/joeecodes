@@ -1,7 +1,7 @@
 <h1 align="center">  <img src="https://camo.githubusercontent.com/e2e3940969a45f9a09942babd34781c1284a33c6aafa1799b970eec382552303/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61382f38622f65392f61383862653966376465623930633365313737396239666434313465613864622e676966" align="center" style="width: 30%" /><br>Hi 👋, I'm Joe!</h1>
 <h3 align="center">Anime enthusiast and pro bug maker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeecodes&label=Profile%20views&color=0e75b6&style=plastic" alt="joeecodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeecodes&label=Profile%20views&color=0e75b6&style=flat-square" alt="joeecodes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/joehosten_" target="blank"><img src="https://img.shields.io/twitter/follow/joehosten_?logo=twitter&style=for-the-badge" alt="joehosten_" /></a> </p>
 
