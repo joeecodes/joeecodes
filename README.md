@@ -29,4 +29,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/joehypews"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joehypews" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeecodes&theme=dark" alt="joeecodes" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeecodes&theme=dark" alt="joeecodes" /></p>
