@@ -1,31 +1,50 @@
-<h1 align="center">  <img src="https://camo.githubusercontent.com/e2e3940969a45f9a09942babd34781c1284a33c6aafa1799b970eec382552303/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61382f38622f65392f61383862653966376465623930633365313737396239666434313465613864622e676966" align="center" style="width: 30%" /><br><h1 align="center">Heyo 👋, I'm joee</h1>
-<h3 align="center">A passionate backend Java developer from the UK</h3>
+<div align="center">
+  <img height="190" src="https://camo.githubusercontent.com/e2e3940969a45f9a09942babd34781c1284a33c6aafa1799b970eec382552303/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61382f38622f65392f61383862653966376465623930633365313737396239666434313465613864622e676966"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/joehosten_" target="blank"><img src="https://img.shields.io/twitter/follow/joehosten_?logo=twitter&style=for-the-badge" alt="joehosten_" /></a> </p>
+###
 
-- 🔭 I’m currently working on [Negative Games](https://github.com/negative-games)
+<img href="https://raw.githubusercontent.com/joeecodes/joeecodes/blob/output/snake.svg" alt="Snake animation" />
 
-- 🌱 I’m currently learning **frontend webdev, Japanese**
+###
 
-- 👨‍💻 All of my projects are available at [https://portfolio.joehosten.me](https://portfolio.joehosten.me)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="62" width="85" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="62" width="85" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="62" width="85" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="62" width="85" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="62" width="85" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="62" width="85" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="62" width="85" alt="linux logo"  />
+</div>
 
-- 💬 Ask me about **Java, Minecraft, Discord**
+###
 
-- 📫 How to reach me **joee.codes@gmail.com**
+<div align="center">
+  <a href="https://discord.negative.games" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="74" height="62" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/joehosten_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="74" height="62" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCCzMit1te-vBm05toONU_DA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="74" height="62" alt="youtube logo"  />
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://portfolio.joehosten.me](https://portfolio.joehosten.me)
+###
 
-- ⚡ Fun fact **i really like japan**
-<center>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joehosten_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joehosten_" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://open.spotify.com/user/yyjto5vba4dqwzg3e38042e1s">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yyjto5vba4dqwzg3e38042e1s&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<h3>Support:</h3>
-<p><a href="https://ko-fi.com/joehypews"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joehypews" /></a></p><br><br><br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeecodes&theme=dark" alt="joeecodes" /></p>
-</center>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=joeecodes" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&username=joeecodes" height="150" alt="languages graph"  />
+</div>
+
+###
