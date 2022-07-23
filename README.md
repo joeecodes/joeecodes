@@ -1,12 +1,7 @@
 <div align="center">
   <img height="190" src="https://camo.githubusercontent.com/e2e3940969a45f9a09942babd34781c1284a33c6aafa1799b970eec382552303/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61382f38622f65392f61383862653966376465623930633365313737396239666434313465613864622e676966"  />
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/joeecodes/joeecodes/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<h1 align="center">Hey, I'm Joe!<h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="62" width="85" alt="git logo"  />
