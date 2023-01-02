@@ -4,34 +4,8 @@
 <h1 align="center">Hey, I'm Joe!<h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="54" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="54"  alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="54"  alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="54" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="54"  alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="54"  alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="54"  alt="linux logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://discord.negative.games" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="54"  alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/joehosten_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54"  alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCCzMit1te-vBm05toONU_DA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54"  alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/yyjto5vba4dqwzg3e38042e1s">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yyjto5vba4dqwzg3e38042e1s&count=3" alt="Spotify recently played"  />
+  <a href="https://www.discord.com/users/462296411141177364">
+    <img src="https://lanyard.cnrad.dev/api/462296411141177364?animated=:true" alt="Discord"  />
   </a>
 </div>
 
