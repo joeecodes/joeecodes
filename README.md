@@ -5,23 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/joehosten_" target="blank"><img src="https://img.shields.io/twitter/follow/joehosten_?logo=twitter&style=for-the-badge" alt="joehosten_" /></a> </p>
 
-- 🔭 I’m currently working on [Project Horizon](https://github.com/negative-games)
+- 🔭 I’m currently working on [Negative Games Projects](https://github.com/negative-games)
 
-- 🌱 I’m currently studying **Software Engineering at University**
+- 🌱 I’m currently studying **BSc in Software Engineering at University**
 
-- 👨‍💻 All of my projects are available at [https://hello.joehosten.me](https://hello.joehosten.me)
+- 👨‍💻 All of my projects are available here!
 
-- 📝 I regularly write articles on [https://medium.com/@joe_88223](https://medium.com/@joe_88223)
+- 📝 I regularly(sometimes) write articles on [https://medium.com/@joe_88223](https://medium.com/@joe_88223)
 
 - 📫 How to reach me **joe@joehosten.me**
 
 - 📄 Know about my experiences [https://hello.joehosten.me](https://hello.joehosten.me)
 
 - ⚡ Fun fact **i like cats :)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
