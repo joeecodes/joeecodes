@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **joe@joehosten.me**
 
-- 📄 Know about my experiences [https://hello.joehosten.me](https://hello.joehosten.me)
+- 📄 Know about my experiences [https://joehosten.carrd.co/](https://joehosten.carrd.co/)
 
 - ⚡ Fun fact **i like cats :)**
 
