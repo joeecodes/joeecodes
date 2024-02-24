@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joe and I'm a Software Engineer, from the United Kingdom</h2>
+<h2 align="center">Hi 👋! My name is Joe and I'm a Software Engineer, from the United Kingdom</h2>
 
 ###
 
@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/68609292?s=400&u=fda1068284ed10993ad5346d7e107eb6fcedc6ce&v=4"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -31,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.gg/uWQRGB662c" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=JOIN&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -45,8 +41,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joeecodes/joeecodes/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/yyjto5vba4dqwzg3e38042e1s">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yyjto5vba4dqwzg3e38042e1s&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
